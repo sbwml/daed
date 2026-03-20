@@ -118,7 +118,6 @@ export function SSForm({ onLinkGeneration, initialValues, actionsPortal }: NodeF
           { label: 'chacha20-ietf-poly1305', value: 'chacha20-ietf-poly1305' },
           { label: '2022-blake3-aes-128-gcm', value: '2022-blake3-aes-128-gcm' },
           { label: '2022-blake3-aes-256-gcm', value: '2022-blake3-aes-256-gcm' },
-          { label: '2022-blake3-chacha20-poly1305', value: '2022-blake3-chacha20-poly1305' },
           { label: 'plain', value: 'plain' },
           { label: 'none', value: 'none' },
         ]}
